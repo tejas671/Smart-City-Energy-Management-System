@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # Telegram Bot credentials (replace with your own)
-TELEGRAM_BOT_TOKEN = '8443350447:AAEUak_Jq-0eYcj1NPVEIJbkJTgq6cADg9Q'
+TELEGRAM_BOT_TOKEN = 'your bot token '
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 
 # Path to your Excel file
